@@ -8,16 +8,25 @@ I am a Computer Seience graduate with a profound interest in technology and a de
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Technical Competencies
 
-| Skill                                         | Associated Project         |
+| Skill Domain                                        | Tools & Frameworks   |
 |-----------------------------------------------|----------------------------|
-| Cyber Defence Farameworks          | <a href="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/README.md">Cyber Kill Chain Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|<a href=" "> Cyber Defense Frameworks</a> | MITRE ATT&CK, Pyramid of Pain, Cyber Kill Chain, Diamond Model| 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+| <a href=" "> Lab</a> | Domain Name..... | 
+
+
+
 
 ## Tools
 
