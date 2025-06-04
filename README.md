@@ -3,14 +3,11 @@
 
 a Computer Seience graduate with a profound interest in technology and a dedication to solving complex problems.
 
-This portfolio is designed to showcase <b>knowledge</b> and <b>skills</b> across various cybersecurity domains, including Cyber Defense Frameworks, Threat Intelligence, Network Security, Endpoint Security, SIEM, Digital Forensics & Incident Response (DFIR), and Phishing Analysis.
-
-
+This portfolio is designed to showcase <b>knowledge</b> and <b>skills</b> across various cybersecurity domains, including: <b>Cyber Defense Frameworks, Threat Intelligence, Network Security, Endpoint Security, SIEM, Digital Forensics & Incident Response (DFIR), and Phishing Analysis.</b>
 
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 
 ## Technical Competencies
 
