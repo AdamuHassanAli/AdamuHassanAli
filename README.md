@@ -12,9 +12,24 @@ This portfolio is designed to showcase <b>knowledge</b> and <b>skills</b> across
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
-## Cyber Defense Frameworks
+## Technical Competencies
 
-|Key Concepts & Frameworks Learned:                              |
+| Skill Domain                                        | Tools & Frameworks   |
+|-----------------------------------------------|----------------------------|
+| <b>Cyber Defense Frameworks</b></a> | MITRE ATT&CK, Pyramid of Pain, Unified & Cyber Kill Chain, Diamond Model | 
+| <b>Threat Intelligence & Analysis</b></a> | YARA, MISP, OpenCTI | 
+| <b>Network Security & Traffic Analysis</b></a> |Wireshark, Zeek, Snort, TShark | 
+| <b>Endpoint Security & Monitoring</b></a> | Sysmon, Osquery, Wazuh | 
+| <b>SIEM & Log Analysis </b></a> |Splunk, ELK Stack| 
+| <b>Digital Forensics & Incident Response (DFIR) </b></a> | Autopsy, Volatility, Redline | 
+| <b>Phishing Analysis & Prevention </b></a> | Email headers, URL analysis, sandboxing | 
+<br/>
+<br/>
+
+## Key Projects & Learning Paths
+
+### Cyber Defense Frameworks Labs
+|   Key Concepts & Frameworks Learned:                          |
 |----------------------------------------------------------------|
 |<a href=" "> <b>Pyramid of Pain</b></a> – Understanding adversary indicators and operational impact.  | 
 |<a href=" "> <b>Cyber Kill Chain </b></a> – Identifying stages of a cyberattack for better defense.  | 
@@ -25,33 +40,104 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Practical Application:
 - Summit (Pyramid of Pain challenge)
 - Eviction (Threat hunting simulation)
+<br/>
+<br/>
 
+### Cyber Threat Intelligence (CTI) Labs
+|   Key Skills & Tools:                          |
+|----------------------------------------------------------------|
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
 
-## Technical Competencies
+### Practical Application:
+- 
+- 
+<br/>
+<br/>
 
-| Skill Domain                                        | Tools & Frameworks   |
-|-----------------------------------------------|----------------------------|
-| <b>Cyber Defense Frameworks</b></a> | MITRE ATT&CK, Pyramid of Pain,   Cyber Kill Chain, Diamond Model | 
-| <b>Threat Intelligence & Analysis</b></a> | YARA, MISP, OpenCTI | 
-| <b>Network Security & Traffic Analysis</b></a> |Wireshark, Zeek, Snort, TShark | 
-| <b>Endpoint Security & Monitoring</b></a> | Sysmon, Osquery, Wazuh | 
-| <b>SIEM & Log Analysis </b></a> |Splunk, ELK Stack| 
-| <b>Digital Forensics & Incident Response (DFIR) </b></a> | Autopsy, Volatility, Redline | 
-| <b>Phishing Analysis & Prevention </b></a> | Email headers, URL analysis, sandboxing | 
+### Network Security & Traffic Analysis Labs
+|   Key Tools & Techniques:                          |
+|----------------------------------------------------------------|
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
 
-## Key Projects & Learning Paths
+### Practical Application:
+- 
+-
+<br/>
+<br/>
 
-| Skill Domain                                        | Applied Projects     |
-|-----------------------------------------------|----------------------------|
-| <a href=" "> <b> </b></a> | MITRE ATT&CK, Cyber Kill Chain, Diamond Model | 
-| <a href=" "> <b>Threat Intelligence & Analysis</b></a> | YARA, MISP, OpenCTI | 
-| <a href=" "> <b>Network Security & Traffic Analysis</b></a> |Wireshark, Zeek, Snort, TShark | 
-| <a href=" "> <b>Endpoint Security & Monitoring</b></a> | Sysmon, Osquery, Wazuh | 
-| <a href=" "> <b>SIEM & Log Analysis </b></a> |Splunk, ELK Stack| 
-| <a href=" "> <b>Digital Forensics & Incident Response (DFIR) </b></a> | Autopsy, Volatility, Redline | 
-| <a href=" "> <b>Phishing Analysis & Prevention </b></a> | Email headers, URL analysis, sandboxing | 
+### Endpoint Security Monitoring Labs
+|   Key Topics & Tools:                         |
+|----------------------------------------------------------------|
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
 
+### Practical Application:
+- 
+-
+<br/>
+<br/>
 
+### Security Information & Event Management (SIEM) Labs
+|   Key Platforms & Skills:                          |
+|----------------------------------------------------------------|
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+
+### Practical Application:
+- 
+-
+<br/>
+<br/>
+
+### Digital Forensics & Incident Response (DFIR) Labs
+|   Key Techniques & Tools:                          |
+|----------------------------------------------------------------|
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+
+### Practical Application:
+- 
+-
+<br/>
+<br/>
+
+### Phishing Analysis Labs
+|   Key Skills & Tools:                          |
+|----------------------------------------------------------------|
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ----- </b></a> –----- | 
+
+### Practical Application:
+- 
+-
+<br/>
+<br/>
 
 ## Tools
 
