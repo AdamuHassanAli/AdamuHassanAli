@@ -23,6 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | <b>SIEM & Log Analysis </b></a> |Splunk, ELK Stack| 
 | <b>Digital Forensics & Incident Response (DFIR) </b></a> | Autopsy, Volatility, Redline | 
 | <b>Phishing Analysis & Prevention </b></a> | Email headers, URL analysis, sandboxing | 
+|<a href=" "> <b> -- </b></a> –----- | 
 <br/>
 <br/>
 
@@ -46,96 +47,93 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cyber Threat Intelligence (CTI) Labs
 |   Key Skills & Tools:                          |
 |----------------------------------------------------------------|
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> Threat Intelligence Fundamentals </b></a> – Standards, frameworks, and lifecycle. | 
+|<a href=" "> <b> YARA  </b></a> – Rule-based malware detection and threat hunting. | 
+|<a href=" "> <b> OpenCTI & MISP </b></a> – Threat intelligence sharing platforms. | 
+|<a href=" "> <b> OSINT Tools </b></a> – Techniques for security assessments. | 
+|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
-- 
-- 
+- Friday Overtime (CTI Analyst simulation)
+- Trooper (Threat identification challenge)
 <br/>
 <br/>
 
 ### Network Security & Traffic Analysis Labs
 |   Key Tools & Techniques:                          |
 |----------------------------------------------------------------|
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> Wireshark & TShark </b></a> – Packet capture and analysis. | 
+|<a href=" "> <b> Snort  </b></a> – IDS/IPS rule creation and live traffic analysis. | 
+|<a href=" "> <b> Zeek (Bro) </b></a> – Network monitoring and threat detection. | 
+|<a href=" "> <b> NetworkMiner </b></a> – Forensic traffic analysis. | 
+|<a href=" "> <b> Brim </b></a> – Log investigation and threat hunting. | 
+|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
-- 
--
+- Snort Challenge (Live attack detection)
+- TShark Challenges (CLI-based traffic analysis)
 <br/>
 <br/>
 
 ### Endpoint Security Monitoring Labs
 |   Key Topics & Tools:                         |
 |----------------------------------------------------------------|
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> Windows Forensics </b></a> – Core processes, event logs, and Sysmon. | 
+|<a href=" "> <b> Sysinternals </b></a> – Windows system analysis. | 
+|<a href=" "> <b> Osquery  </b></a>  – Endpoint querying for threat detection. | 
+|<a href=" "> <b> Wazuh </b></a> – Open-source SIEM and endpoint monitoring. | 
 |<a href=" "> <b> ----- </b></a> –----- | 
 |<a href=" "> <b> ----- </b></a> –----- | 
 
 ### Practical Application:
-- 
--
+- Monday Monitor (Endpoint monitoring scenario)
+- Retracted (Ransomware investigation)
 <br/>
 <br/>
 
 ### Security Information & Event Management (SIEM) Labs
 |   Key Platforms & Skills:                          |
 |----------------------------------------------------------------|
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> ELK Stack </b></a> Log analysis and investigation. | 
+|<a href=" "> <b> Splunk </b></a> – Querying, incident handling, and anomaly detection | 
+|<a href=" "> <b> -- </b></a> –----- | 
+
 
 ### Practical Application:
-- 
--
+- ItsyBitsy (ELK-based incident investigation)
+- Benign (Splunk-based host compromise analysis)
 <br/>
 <br/>
 
 ### Digital Forensics & Incident Response (DFIR) Labs
 |   Key Techniques & Tools:                          |
 |----------------------------------------------------------------|
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> Windows & Linux Forensics </b></a> – File system artifacts, registry analysis. | 
+|<a href=" "> <b> Autopsy & Redline </b></a> – Disk and memory forensics. | 
+|<a href=" "> <b> KAPE & Volatility </b></a> – Artifact collection and memory analysis. | 
+|<a href=" "> <b> Velociraptor </b></a> – Endpoint monitoring and response. | 
+|<a href=" "> <b> TheHive Project </b></a> – Incident case management. | 
+|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
-- 
--
+- Unattended (Windows forensics challenge)
+- Disgruntled (Linux forensics challenge)
+- Critical (Memory dump analysis)
+- Secret Recipe (Registry forensics)
 <br/>
 <br/>
 
 ### Phishing Analysis Labs
 |   Key Skills & Tools:                          |
 |----------------------------------------------------------------|
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
+|<a href=" "> <b> Email Header Analysis </b></a> – Identifying spoofing and malicious links. | 
+|<a href=" "> <b> Phishing Tools </b></a> – URL scanners, email analyzers. | 
+|<a href=" "> <b> Prevention Techniques </b></a> – Defensive strategies against phishing. | 
+|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
-- 
--
+- The Greenholt Phish (Malicious email analysis)
+- Snapped Phish-ing Line (Phishing campaign investigation)
 <br/>
 <br/>
 
@@ -170,6 +168,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
