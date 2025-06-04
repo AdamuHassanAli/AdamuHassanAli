@@ -23,12 +23,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | <b>SIEM & Log Analysis </b></a> |Splunk, ELK Stack| 
 | <b>Digital Forensics & Incident Response (DFIR) </b></a> | Autopsy, Volatility, Redline | 
 | <b>Phishing Analysis & Prevention </b></a> | Email headers, URL analysis, sandboxing | 
-|<a href=" "> <b> -- </b></a> –----- | 
 <br/>
 <br/>
 
 ## Key Projects & Learning Paths
-
+<align="center">
 ### Cyber Defense Frameworks Labs
 |   Key Concepts & Frameworks Learned:                          |
 |----------------------------------------------------------------|
@@ -43,6 +42,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Eviction (Threat hunting simulation)
 <br/>
 <br/>
+</center>
 
 ### Cyber Threat Intelligence (CTI) Labs
 |   Key Skills & Tools:                          |
@@ -51,7 +51,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href=" "> <b> YARA  </b></a> – Rule-based malware detection and threat hunting. | 
 |<a href=" "> <b> OpenCTI & MISP </b></a> – Threat intelligence sharing platforms. | 
 |<a href=" "> <b> OSINT Tools </b></a> – Techniques for security assessments. | 
-|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
 - Friday Overtime (CTI Analyst simulation)
@@ -67,7 +66,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href=" "> <b> Zeek (Bro) </b></a> – Network monitoring and threat detection. | 
 |<a href=" "> <b> NetworkMiner </b></a> – Forensic traffic analysis. | 
 |<a href=" "> <b> Brim </b></a> – Log investigation and threat hunting. | 
-|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
 - Snort Challenge (Live attack detection)
@@ -82,8 +80,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href=" "> <b> Sysinternals </b></a> – Windows system analysis. | 
 |<a href=" "> <b> Osquery  </b></a>  – Endpoint querying for threat detection. | 
 |<a href=" "> <b> Wazuh </b></a> – Open-source SIEM and endpoint monitoring. | 
-|<a href=" "> <b> ----- </b></a> –----- | 
-|<a href=" "> <b> ----- </b></a> –----- | 
 
 ### Practical Application:
 - Monday Monitor (Endpoint monitoring scenario)
@@ -96,8 +92,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |----------------------------------------------------------------|
 |<a href=" "> <b> ELK Stack </b></a> Log analysis and investigation. | 
 |<a href=" "> <b> Splunk </b></a> – Querying, incident handling, and anomaly detection | 
-|<a href=" "> <b> -- </b></a> –----- | 
-
 
 ### Practical Application:
 - ItsyBitsy (ELK-based incident investigation)
@@ -113,7 +107,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href=" "> <b> KAPE & Volatility </b></a> – Artifact collection and memory analysis. | 
 |<a href=" "> <b> Velociraptor </b></a> – Endpoint monitoring and response. | 
 |<a href=" "> <b> TheHive Project </b></a> – Incident case management. | 
-|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
 - Unattended (Windows forensics challenge)
@@ -129,7 +122,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href=" "> <b> Email Header Analysis </b></a> – Identifying spoofing and malicious links. | 
 |<a href=" "> <b> Phishing Tools </b></a> – URL scanners, email analyzers. | 
 |<a href=" "> <b> Prevention Techniques </b></a> – Defensive strategies against phishing. | 
-|<a href=" "> <b> -- </b></a> –----- | 
 
 ### Practical Application:
 - The Greenholt Phish (Malicious email analysis)
