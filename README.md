@@ -58,6 +58,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network Security & Traffic Analysis Labs
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/TShark-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="TShark Badge" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
