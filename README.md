@@ -1,7 +1,7 @@
 ## Hi I'm Adamu Hassan Ali
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-a Computer Seience graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a Computer Seience graduate with a strong desire and interest in technology, also a dedication to solving complex problems.
 
 This portfolio is designed to showcase <b>knowledge</b> and <b>skills</b> across various cybersecurity domains, including: <b>Cyber Defense Frameworks, Threat Intelligence, Network Security, Endpoint Security, SIEM, Digital Forensics & Incident Response (DFIR), and Phishing Analysis.</b>
 
