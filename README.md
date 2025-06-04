@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <br/>
 
 ## Key Projects & Learning Paths
-<align="center">
+
 ### Cyber Defense Frameworks Labs
 |   Key Concepts & Frameworks Learned:                          |
 |----------------------------------------------------------------|
