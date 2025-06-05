@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill Domain                                        | Tools & Frameworks   |
 |-----------------------------------------------|----------------------------|
-| <b>Cyber Defense Frameworks</b></a> | MITRE ATT&CK, Pyramid of Pain, Unified & Cyber Kill Chain, Diamond Model | 
+| <b>Cyber Defense Frameworks</b></a> | MITRE ATT&CK, Pyramid of Pain, Unified/Cyber Kill Chain, Diamond Model and NIST CSF| 
 | <b>Threat Intelligence & Analysis</b></a> | YARA, MISP, OpenCTI | 
 | <b>Network Security & Traffic Analysis</b></a> |Wireshark, Zeek, Snort, TShark | 
 | <b>Endpoint Security & Monitoring</b></a> | Sysmon, Osquery, Wazuh | 
