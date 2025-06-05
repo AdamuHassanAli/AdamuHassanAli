@@ -26,7 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Key Projects & Learning Paths
 
 ### Cyber Defense Frameworks Labs
-|   Key Concepts & Frameworks Learned:                          |
+|   Key Concepts & Frameworks Learned:                           |
 |----------------------------------------------------------------|
 |<a href="https://github.com/AdamuHassanAli/MITRE "> <b>MITRE ATT&CK </b></a> – Tactics, Techniques, and Procedures (TTPs) used by adversaries.  | 
 |<a href="https://github.com/AdamuHassanAli/Pyramid-of-Pain "> <b>Pyramid of Pain</b></a> – Understanding adversary indicators and operational impact.  | 
