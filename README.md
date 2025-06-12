@@ -52,8 +52,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
-
-
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/TShark-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="TShark Badge" />
@@ -160,4 +158,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+
+## 🟣 Purple Team Detection Engineering  
+**Platform:** TryHackMe | **Type:** Practical Scenario | **Focus:** Detection Engineering using the Pyramid of Pain
+
+### 🧪 Project Description
+In this purple-team engagement simulation, I collaborated with a red teamer to improve threat detection iteratively by analyzing and responding to various malware samples. The exercise followed the Pyramid of Pain, escalating from hash-based detection to detecting adversary Tactics, Techniques, and Procedures (TTPs). The goal was to increase the cost for the adversary at each level by deploying host- and network-based detections.
+
+### 🛠 What I Did
+
+#### 🔹 **Hashes**  
+Detected `sample1.exe` by analyzing it in a malware sandbox and blocking its **SHA256 hash** via EDR.
+
+#### 🔹 **IP Addresses**  
+Prevented `sample2.exe` from connecting to its command-and-control server by identifying its destination IP and creating a **host-based firewall egress rule**.
+
+#### 🔹 **Domain Names**  
+Blocked the domain `bresonicz.info` used by `sample3.exe` by implementing a **DNS filtering rule** under the spyware category.
+
+#### 🔹 **Artifacts**  
+Analyzed system changes made by `sample4.exe`, which attempted to disable Windows Defender. Wrote a **custom Sigma rule** to detect:
 
