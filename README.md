@@ -34,7 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href="https://github.com/AdamuHassanAli/Unified-Kill-Chain "> <b>Unified Kill Chain </b></a> – Combining Cyber Kill Chain with MITRE ATT&CK.  | 
 |<a href=" "> <b>Diamond Model </b></a> – Analyzing intrusions using adversary, infrastructure, capability, and victim. | 
 
-### Practical Application:
+### Projects & Practical Application:
 - <a href="https://github.com/AdamuHassanAli/Summit">🛡️ Threat Detection Engineering & Simulation Using the Pyramid of Pain
 - Eviction (Threat hunting simulation)
 <br/>
