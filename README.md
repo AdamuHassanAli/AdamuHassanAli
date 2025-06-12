@@ -24,6 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <br/>
 
 ## Key Projects
+### Cyber Defense Frameworks Practical Application:
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/TShark-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="TShark Badge" />
@@ -31,7 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Cyber Defense Frameworks Practical Application:
+ 
 - <a href="https://github.com/AdamuHassanAli/Summit">🛡️ Threat Detection Engineering & Simulation Using the Pyramid of Pain
 - Eviction (Threat hunting simulation)
 <br/>
