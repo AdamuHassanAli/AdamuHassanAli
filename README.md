@@ -13,13 +13,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill Domain                                        | Tools & Frameworks   |
 |-----------------------------------------------|----------------------------|
-| <b>Cyber Defense Frameworks</b></a> | MITRE ATT&CK, Pyramid of Pain, Unified/Cyber Kill Chain, Diamond Model and NIST CSF| 
-| <b>Threat Intelligence & Analysis</b></a> | YARA, MISP, OpenCTI | 
-| <b>Network Security & Traffic Analysis</b></a> |Wireshark, Zeek, Snort, TShark | 
-| <b>Endpoint Security & Monitoring</b></a> | Sysmon, Osquery, Wazuh | 
-| <b>SIEM & Log Analysis </b></a> |Splunk, ELK Stack| 
-| <b>Digital Forensics & Incident Response (DFIR) </b></a> | Autopsy, Volatility, Redline | 
-| <b>Phishing Analysis & Prevention </b></a> | Email headers, URL analysis, sandboxing | 
+| <a href=" "><b>Cyber Defense Frameworks</b></a> | MITRE ATT&CK, Pyramid of Pain, Unified/Cyber Kill Chain, Diamond Model and NIST CSF| 
+| <a href=" "><b>Threat Intelligence & Analysis</b></a> | YARA, MISP, OpenCTI | 
+| <a href=" "><b>Network Security & Traffic Analysis</b></a> |Wireshark, Zeek, Snort, TShark | 
+| <a href="https://github.com/AdamuHassanAli/Endpoint-Security-Monitoring-Labs "><b>Endpoint Security & Monitoring</b></a> | Sysmon, Osquery, Wazuh | 
+| <a href="https://github.com/AdamuHassanAli/SIEM/"><b>SIEM & Log Analysis </b></a> |Splunk, ELK Stack| 
+| <a href=" "><b>Digital Forensics & Incident Response (DFIR) </b></a> | Autopsy, Volatility, Redline | 
+| <a href=" "><b>Phishing Analysis & Prevention </b></a> | Email headers, URL analysis, sandboxing | 
 <br/>
 <br/>
 
