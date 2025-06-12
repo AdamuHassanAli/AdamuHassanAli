@@ -35,7 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |<a href=" "> <b>Diamond Model </b></a> – Analyzing intrusions using adversary, infrastructure, capability, and victim. | 
 
 ### Practical Application:
-- Summit (Pyramid of Pain challenge)
+- <a href="https://github.com/AdamuHassanAli/Summit">🛡️ Threat Detection Engineering & Simulation Using the Pyramid of Pain
 - Eviction (Threat hunting simulation)
 <br/>
 <br/>
