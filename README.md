@@ -33,7 +33,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
  
-- <a href="https://github.com/AdamuHassanAli/Summit">🛡️ Threat Detection Engineering & Simulation Using the Pyramid of Pain
+- <a href="https://github.com/AdamuHassanAli/Summit">🛡️ Purple-Team Malware Detection Challenge
 - Eviction (Threat hunting simulation)
 <br/>
 <br/>
