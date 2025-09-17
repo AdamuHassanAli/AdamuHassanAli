@@ -31,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
  
-- <a href="https://github.com/AdamuHassanAli/Summit">🛡️ Purple-Team Malware Detection Challenge
+- <a href="https://github.com/AdamuHassanAli/Summit">🛡️ Purple-Team Malware Detection Challenge Using Pyramid of Pain
 - Eviction (Threat hunting simulation)
 <br/>
 <br/>
@@ -58,9 +58,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Network Security & Traffic Analysis Practical Application:
-- Snort Challenge (Live attack detection)
-- TShark Challenges (CLI-based traffic analysis)
+### System, Network Security & Traffic Analysis Practical Application:
+- <a href="https://github.com/AdamuHassanAli/Apply-filters-to-SQL-queries">Applied SQL Filters for Security Investigation and System Hardening
+- <a href="https://github.com/AdamuHassanAli/File-permissions-in-Linux">Linux File Permissions Hardening for Secure Access Control
+- <a href="">Snort Challenge (Live attack detection)
+- <a href="">TShark Challenges (CLI-based traffic analysis)
 <br/>
 <br/>
 
