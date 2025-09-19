@@ -61,12 +61,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### System, Network Security & Traffic Analysis Practical Application:
 - <a href="https://github.com/AdamuHassanAli/Apply-filters-to-SQL-queries">Applied SQL Filters for Security Investigation and System Hardening
 - <a href="https://github.com/AdamuHassanAli/File-permissions-in-Linux">Linux File Permissions Hardening for Secure Access Control
-- <a href="">Snort Challenge (Live attack detection)
-- <a href="">TShark Challenges (CLI-based traffic analysis)
+- <a href="https://github.com/AdamuHassanAli/Update-a-file-through-a-Python-algorithm">Automating IP Allowlist Management for Secure Access Control
+- Snort Challenge (Live attack detection)
+- TShark Challenges (CLI-based traffic analysis)
 <br/>
 <br/>
 
-
+<a href="">
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
